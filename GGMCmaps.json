@@ -538,5 +538,685 @@
     "ws": true,
     "display": "Zeitgeist - Staged T3",
     "mapid": "3265329080"
+  },
+  "surf_1day": {
+    "ws": true,
+    "display": "1day",
+    "mapid": "3331512455"
+  },
+  "surf_2pacisalive": {
+    "ws": true,
+    "display": "2pacisalive",
+    "mapid": "3136165565"
+  },
+  "surf_3": {
+    "ws": true,
+    "display": "3",
+    "mapid": "3205431168"
+  },
+  "surf_abstract_final": {
+    "ws": true,
+    "display": "Abstract_final",
+    "mapid": "3143574155"
+  },
+  "surf_advanced": {
+    "ws": true,
+    "display": "Advanced",
+    "mapid": "3155954749"
+  },
+  "surf_aircontrol_ksf": {
+    "ws": true,
+    "display": "Aircontrol_ksf",
+    "mapid": "3230699916"
+  },
+  "surf_amantiss": {
+    "ws": true,
+    "display": "Amantiss",
+    "mapid": "3583335846"
+  },
+  "surf_amir": {
+    "ws": true,
+    "display": "Amir",
+    "mapid": "3429021238"
+  },
+  "surf_antimatter_v2": {
+    "ws": true,
+    "display": "Antimatter_v2",
+    "mapid": "3485688846"
+  },
+  "surf_anything": {
+    "ws": true,
+    "display": "Anything",
+    "mapid": "3483462326"
+  },
+  "surf_at_the_limit": {
+    "ws": true,
+    "display": "At_the_limit",
+    "mapid": "3586138920"
+  },
+  "surf_auroria_ksf": {
+    "ws": true,
+    "display": "Auroria_ksf",
+    "mapid": "3473169628"
+  },
+  "surf_auroria2": {
+    "ws": true,
+    "display": "Auroria2",
+    "mapid": "3573196446"
+  },
+  "surf_autism_2": {
+    "ws": true,
+    "display": "Autism_2",
+    "mapid": "3536945987"
+  },
+  "surf_axiom2": {
+    "ws": true,
+    "display": "Axiom2",
+    "mapid": "3471249193"
+  },
+  "surf_believe": {
+    "ws": true,
+    "display": "Believe",
+    "mapid": "3559958429"
+  },
+  "surf_beyer2": {
+    "ws": true,
+    "display": "Beyer2",
+    "mapid": "3474317556"
+  },
+  "surf_bluewall": {
+    "ws": true,
+    "display": "Bluewall",
+    "mapid": "3456822711"
+  },
+  "surf_bork": {
+    "ws": true,
+    "display": "Bork",
+    "mapid": "3512585422"
+  },
+  "surf_caged": {
+    "ws": true,
+    "display": "Caged",
+    "mapid": "3463752385"
+  },
+  "surf_catrix": {
+    "ws": true,
+    "display": "Catrix",
+    "mapid": "3277760390"
+  },
+  "surf_cavemissile": {
+    "ws": true,
+    "display": "Cavemissile",
+    "mapid": "3513956993"
+  },
+  "surf_chasm": {
+    "ws": true,
+    "display": "Chasm",
+    "mapid": "3165925249"
+  },
+  "surf_colors_final": {
+    "ws": true,
+    "display": "Colors_final",
+    "mapid": "3427978113"
+  },
+  "surf_concept": {
+    "ws": true,
+    "display": "Concept",
+    "mapid": "3552322503"
+  },
+  "surf_concreteideas": {
+    "ws": true,
+    "display": "Concreteideas",
+    "mapid": "3124205121"
+  },
+  "surf_conserve": {
+    "ws": true,
+    "display": "Conserve",
+    "mapid": "3487164265"
+  },
+  "surf_construction": {
+    "ws": true,
+    "display": "Construction",
+    "mapid": "3522971197"
+  },
+  "surf_dank": {
+    "ws": true,
+    "display": "Dank",
+    "mapid": "3205436688"
+  },
+  "surf_deadline": {
+    "ws": true,
+    "display": "Deadline",
+    "mapid": "3470048752"
+  },
+  "surf_depths": {
+    "ws": true,
+    "display": "Depths",
+    "mapid": "3481744383"
+  },
+  "surf_diamond_beta1": {
+    "ws": true,
+    "display": "Diamond_beta1",
+    "mapid": "3460875224"
+  },
+  "surf_disneyland": {
+    "ws": true,
+    "display": "Disneyland",
+    "mapid": "3569996821"
+  },
+  "surf_diverge": {
+    "ws": true,
+    "display": "Diverge",
+    "mapid": "3556026170"
+  },
+  "surf_dojo": {
+    "ws": true,
+    "display": "Dojo",
+    "mapid": "3287151811"
+  },
+  "surf_domain": {
+    "ws": true,
+    "display": "Domain",
+    "mapid": "3486635138"
+  },
+  "surf_dragon": {
+    "ws": true,
+    "display": "Dragon",
+    "mapid": "3560017438"
+  },
+  "surf_dreams": {
+    "ws": true,
+    "display": "Dreams",
+    "mapid": "3487948624"
+  },
+  "surf_duggywuggy": {
+    "ws": true,
+    "display": "Duggywuggy",
+    "mapid": "3291586145"
+  },
+  "surf_dusk": {
+    "ws": true,
+    "display": "Dusk",
+    "mapid": "3562141480"
+  },
+  "surf_ecosystem": {
+    "ws": true,
+    "display": "Ecosystem",
+    "mapid": "3497498189"
+  },
+  "surf_ember": {
+    "ws": true,
+    "display": "Ember",
+    "mapid": "3519569939"
+  },
+  "surf_emerald": {
+    "ws": true,
+    "display": "Emerald",
+    "mapid": "3506602421"
+  },
+  "surf_enlightened": {
+    "ws": true,
+    "display": "Enlightened",
+    "mapid": "3318284738"
+  },
+  "surf_epicube_ksf": {
+    "ws": true,
+    "display": "Epicube_ksf",
+    "mapid": "3478279136"
+  },
+  "surf_exclave_fix": {
+    "ws": true,
+    "display": "Exclave_fix",
+    "mapid": "3440673307"
+  },
+  "surf_executioner": {
+    "ws": true,
+    "display": "Executioner",
+    "mapid": "3567729256"
+  },
+  "surf_ezpz_syntax": {
+    "ws": true,
+    "display": "Ezpz_syntax",
+    "mapid": "3155960556"
+  },
+  "surf_facility": {
+    "ws": true,
+    "display": "Facility",
+    "mapid": "3524679936"
+  },
+  "surf_flipv2": {
+    "ws": true,
+    "display": "Flipv2",
+    "mapid": "3583928824"
+  },
+  "surf_flyin_fortress": {
+    "ws": true,
+    "display": "Flyin_fortress",
+    "mapid": "3467137364"
+  },
+  "surf_for_all": {
+    "ws": true,
+    "display": "For_all",
+    "mapid": "3205445745"
+  },
+  "surf_forbidden_tomb3": {
+    "ws": true,
+    "display": "Forbidden_tomb3",
+    "mapid": "3492756822"
+  },
+  "Surf_FrostEdge": {
+    "ws": true,
+    "display": "FrostEdge",
+    "mapid": "3120455026"
+  },
+  "surf_fuckyall": {
+    "ws": true,
+    "display": "Fuckyall",
+    "mapid": "3502989288"
+  },
+  "surf_giza": {
+    "ws": true,
+    "display": "Giza",
+    "mapid": "3205450800"
+  },
+  "surf_glow": {
+    "ws": true,
+    "display": "Glow",
+    "mapid": "3454592243"
+  },
+  "surf_goodbye": {
+    "ws": true,
+    "display": "Goodbye",
+    "mapid": "3487442111"
+  },
+  "surf_greece": {
+    "ws": true,
+    "display": "Greece",
+    "mapid": "3556147072"
+  },
+  "surf_greek": {
+    "ws": true,
+    "display": "Greek",
+    "mapid": "3555000169"
+  },
+  "surf_greenhouse": {
+    "ws": true,
+    "display": "Greenhouse",
+    "mapid": "3446844000"
+  },
+  "surf_guitar_hi": {
+    "ws": true,
+    "display": "Guitar_hi",
+    "mapid": "3294887860"
+  },
+  "surf_hades": {
+    "ws": true,
+    "display": "Hades",
+    "mapid": "3165927091"
+  },
+  "surf_hades2": {
+    "ws": true,
+    "display": "Hades2",
+    "mapid": "3205459705"
+  },
+  "surf_hopi_easy": {
+    "ws": true,
+    "display": "Hopi_easy",
+    "mapid": "3553688788"
+  },
+  "surf_iceworld": {
+    "ws": true,
+    "display": "Iceworld",
+    "mapid": "3205463449"
+  },
+  "surf_impact": {
+    "ws": true,
+    "display": "Impact",
+    "mapid": "3550608738"
+  },
+  "surf_industries_njv": {
+    "ws": true,
+    "display": "Industries_njv",
+    "mapid": "3496244626"
+  },
+  "surf_infamous_ksf": {
+    "ws": true,
+    "display": "Infamous_ksf",
+    "mapid": "3482633662"
+  },
+  "surf_injection_njv": {
+    "ws": true,
+    "display": "Injection_njv",
+    "mapid": "3513513180"
+  },
+  "surf_interstellar": {
+    "ws": true,
+    "display": "Interstellar",
+    "mapid": "3467884516"
+  },
+  "surf_jade": {
+    "ws": true,
+    "display": "Jade",
+    "mapid": "3343231226"
+  },
+  "surf_kinshi": {
+    "ws": true,
+    "display": "Kinshi",
+    "mapid": "3570133402"
+  },
+  "surf_kloakk": {
+    "ws": true,
+    "display": "Kloakk",
+    "mapid": "3413759840"
+  },
+  "surf_krow10": {
+    "ws": true,
+    "display": "Krow10",
+    "mapid": "3434408520"
+  },
+  "surf_kvas": {
+    "ws": true,
+    "display": "Kvas",
+    "mapid": "3537019460"
+  },
+  "surf_leet_xl_beta7z": {
+    "ws": true,
+    "display": "Leet_xl_beta7z",
+    "mapid": "3268646330"
+  },
+  "surf_legends_lite": {
+    "ws": true,
+    "display": "Legends_lite",
+    "mapid": "3260899141"
+  },
+  "surf_lolrevlis2": {
+    "ws": true,
+    "display": "Lolrevlis2",
+    "mapid": "3406698419"
+  },
+  "surf_lore": {
+    "ws": true,
+    "display": "Lore",
+    "mapid": "3526193830"
+  },
+  "surf_loves_spliff": {
+    "ws": true,
+    "display": "Loves_spliff",
+    "mapid": "3476243241"
+  },
+  "surf_low_production": {
+    "ws": true,
+    "display": "Low_production",
+    "mapid": "3453842421"
+  },
+  "surf_lowestbidder": {
+    "ws": true,
+    "display": "Lowestbidder",
+    "mapid": "3498606987"
+  },
+  "surf_loweffort": {
+    "ws": true,
+    "display": "Loweffort",
+    "mapid": "3205475484"
+  },
+  "surf_metalwall": {
+    "ws": true,
+    "display": "Metalwall",
+    "mapid": "3312844503"
+  },
+  "surf_methadone": {
+    "ws": true,
+    "display": "Methadone",
+    "mapid": "3498529373"
+  },
+  "surf_minecraft_2016_final": {
+    "ws": true,
+    "display": "Minecraft_2016_final",
+    "mapid": "3456767601"
+  },
+  "surf_minuet_njv": {
+    "ws": true,
+    "display": "Minuet_njv",
+    "mapid": "3416609520"
+  },
+  "surf_neo": {
+    "ws": true,
+    "display": "Neo",
+    "mapid": "3485131137"
+  },
+  "surf_neon_final": {
+    "ws": true,
+    "display": "Neon_final",
+    "mapid": "3155962938"
+  },
+  "surf_newsflash_pal": {
+    "ws": true,
+    "display": "Newsflash_pal",
+    "mapid": "3467101813"
+  },
+  "surf_ninja": {
+    "ws": true,
+    "display": "Ninja",
+    "mapid": "3136162799"
+  },
+  "surf_not_so_disaster": {
+    "ws": true,
+    "display": "Not_so_disaster",
+    "mapid": "3456519416"
+  },
+  "surf_nova": {
+    "ws": true,
+    "display": "Nova",
+    "mapid": "3266312154"
+  },
+  "surf_ny_advance": {
+    "ws": true,
+    "display": "Ny_advance",
+    "mapid": "3521464949"
+  },
+  "surf_overgrowth": {
+    "ws": true,
+    "display": "Overgrowth",
+    "mapid": "3333270287"
+  },
+  "surf_paddy": {
+    "ws": true,
+    "display": "Paddy",
+    "mapid": "3463592717"
+  },
+  "surf_palais": {
+    "ws": true,
+    "display": "Palais",
+    "mapid": "3277590518"
+  },
+  "surf_pathfinder": {
+    "ws": true,
+    "display": "Pathfinder",
+    "mapid": "3473724891"
+  },
+  "surf_placid": {
+    "ws": true,
+    "display": "Placid",
+    "mapid": "3459274636"
+  },
+  "surf_pogchamp": {
+    "ws": true,
+    "display": "Pogchamp",
+    "mapid": "3503053906"
+  },
+  "surf_primero_njv": {
+    "ws": true,
+    "display": "Primero_njv",
+    "mapid": "3438767125"
+  },
+  "surf_prosaic_njv": {
+    "ws": true,
+    "display": "Prosaic_njv",
+    "mapid": "3491073333"
+  },
+  "surf_psychedelia": {
+    "ws": true,
+    "display": "Psychedelia",
+    "mapid": "3534771824"
+  },
+  "surf_psycho": {
+    "ws": true,
+    "display": "Psycho",
+    "mapid": "3136166918"
+  },
+  "surf_quickie": {
+    "ws": true,
+    "display": "Quickie",
+    "mapid": "3165930325"
+  },
+  "surf_quilavar": {
+    "ws": true,
+    "display": "Quilavar",
+    "mapid": "3488931733"
+  },
+  "surf_refraxis": {
+    "ws": true,
+    "display": "Refraxis",
+    "mapid": "3490629338"
+  },
+  "surf_rezurgence": {
+    "ws": true,
+    "display": "Rezurgence",
+    "mapid": "3503807137"
+  },
+  "surf_rocco_v2": {
+    "ws": true,
+    "display": "Rocco_v2",
+    "mapid": "1533543803"
+  },
+  "surf_rustic": {
+    "ws": true,
+    "display": "Rustic",
+    "mapid": "3523749143"
+  },
+  "surf_sanding": {
+    "ws": true,
+    "display": "Sanding",
+    "mapid": "3560878278"
+  },
+  "surf_sandtrap2": {
+    "ws": true,
+    "display": "Sandtrap2",
+    "mapid": "3303121302"
+  },
+  "surf_satellite": {
+    "ws": true,
+    "display": "Satellite",
+    "mapid": "3474244972"
+  },
+  "surf_selenka": {
+    "ws": true,
+    "display": "Selenka",
+    "mapid": "3476698795"
+  },
+  "surf_siren": {
+    "ws": true,
+    "display": "Siren",
+    "mapid": "3426610799"
+  },
+  "surf_squirrelsonvacation": {
+    "ws": true,
+    "display": "Squirrelsonvacation",
+    "mapid": "3336342562"
+  },
+  "surf_static": {
+    "ws": true,
+    "display": "Static",
+    "mapid": "3537645734"
+  },
+  "surf_strafe": {
+    "ws": true,
+    "display": "Strafe",
+    "mapid": "3483522860"
+  },
+  "surf_subway": {
+    "ws": true,
+    "display": "Subway",
+    "mapid": "3155964399"
+  },
+  "surf_symbiosis_njv": {
+    "ws": true,
+    "display": "Symbiosis_njv",
+    "mapid": "3494107864"
+  },
+  "surf_take1": {
+    "ws": true,
+    "display": "Take1",
+    "mapid": "3441684237"
+  },
+  "surf_technique": {
+    "ws": true,
+    "display": "Technique",
+    "mapid": "3205490672"
+  },
+  "surf_tensile_njv": {
+    "ws": true,
+    "display": "Tensile_njv",
+    "mapid": "3469402578"
+  },
+  "surf_tequila": {
+    "ws": true,
+    "display": "Tequila",
+    "mapid": "3518167225"
+  },
+  "surf_themeless": {
+    "ws": true,
+    "display": "Themeless",
+    "mapid": "3442875695"
+  },
+  "surf_treefort": {
+    "ws": true,
+    "display": "Treefort",
+    "mapid": "3535674789"
+  },
+  "surf_tuxedo": {
+    "ws": true,
+    "display": "Tuxedo",
+    "mapid": "3515921835"
+  },
+  "surf_vale": {
+    "ws": true,
+    "display": "Vale",
+    "mapid": "3496407769"
+  },
+  "surf_vegetables": {
+    "ws": true,
+    "display": "Vegetables",
+    "mapid": "3472518461"
+  },
+  "surf_velianglium": {
+    "ws": true,
+    "display": "Velianglium",
+    "mapid": "3475597362"
+  },
+  "surf_volcanic": {
+    "ws": true,
+    "display": "Volcanic",
+    "mapid": "3504763625"
+  },
+  "surf_wank": {
+    "ws": true,
+    "display": "Wank",
+    "mapid": "3443417941"
+  },
+  "surf_waterworks": {
+    "ws": true,
+    "display": "Waterworks",
+    "mapid": "3263333191"
+  },
+  "surf_weirdcore": {
+    "ws": true,
+    "display": "Weirdcore",
+    "mapid": "3488483898"
+  },
+  "surf_zor": {
+    "ws": true,
+    "display": "Zor",
+    "mapid": "3412715166"
   }
 }
