@@ -1084,11 +1084,6 @@
     "display": "Sandtrap2 - Linear T2",
     "mapid": "3303121302"
   },
-  "surf_satellite": {
-    "ws": true,
-    "display": "Satellite - Linear T1",
-    "mapid": "3474244972"
-  },
   "surf_selenka": {
     "ws": true,
     "display": "Selenka - Staged T5",
