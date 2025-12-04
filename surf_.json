@@ -127,6 +127,10 @@
     "Tier": 3,
     "Type": "Linear"
   },
+  "surf_minecraft_2016_final": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
   "surf_infamous_ksf": {
     "Tier": 5,
     "Type": "Staged"
