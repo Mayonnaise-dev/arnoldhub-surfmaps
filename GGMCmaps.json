@@ -914,7 +914,7 @@
     "display": "Subway - Linear T3",
     "mapid": "3155964399"
   },
-  "surf_take1": {
+  "surf_take1_d": {
     "ws": true,
     "display": "Take1 - Linear T3",
     "mapid": "3441684237"
