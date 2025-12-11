@@ -747,6 +747,10 @@
     "Tier": 2,
     "Type": "Staged"
   },
+  "surf_believe_refix": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
   "surf_beverages_remix": {
     "Tier": 2,
     "Type": "Staged"
@@ -760,7 +764,7 @@
     "Type": "Staged"
   },
   "surf_cavemissile": {
-    "Tier": 2,
+    "Tier": 3,
     "Type": "Linear"
   },
   "surf_classics": {
@@ -2192,6 +2196,10 @@
     "Type": "Linear"
   },
   "surf_take1": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_take1_d": {
     "Tier": 3,
     "Type": "Linear"
   },

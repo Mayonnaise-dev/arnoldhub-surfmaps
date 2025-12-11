@@ -369,7 +369,7 @@
     "display": "Beginner2 - Staged T2",
     "mapid": "3441233508"
   },
-  "surf_believe": {
+  "surf_believe_refix": {
     "ws": true,
     "display": "Believe - Staged T2",
     "mapid": "3559958429"
@@ -386,13 +386,8 @@
   },
   "surf_cavemissile": {
     "ws": true,
-    "display": "Cavemissile - Linear T2",
+    "display": "Cavemissile - Linear T3",
     "mapid": "3513956993"
-  },
-  "surf_colors_final": {
-    "ws": true,
-    "display": "Colors_final - Staged T2",
-    "mapid": "3427978113"
   },
   "surf_cyberwave": {
     "ws": true,
