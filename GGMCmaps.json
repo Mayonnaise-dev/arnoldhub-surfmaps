@@ -1079,6 +1079,11 @@
     "display": "Rustic - Staged T4",
     "mapid": "3523749143"
   },
+  "surf_sunday": {
+    "ws": true,
+    "display": "Sunday - Staged T4",
+    "mapid": "3495439773"
+  },
   "surf_symbiosis_njv": {
     "ws": true,
     "display": "Symbiosis_njv - Linear T4",
