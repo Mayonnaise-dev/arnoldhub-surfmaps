@@ -639,11 +639,6 @@
     "display": "Rez - Staged T2",
     "mapid": "3536081532"
   },
-  "surf_rocco_v2": {
-    "ws": true,
-    "display": "Rocco_v2 - Linear T2",
-    "mapid": "1533543803"
-  },
   "surf_rookie": {
     "ws": true,
     "display": "Rookie - Staged T2",
