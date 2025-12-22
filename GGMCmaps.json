@@ -824,6 +824,11 @@
     "display": "Industries_njv - Linear T3",
     "mapid": "3496244626"
   },
+  "surf_kitsune2": {
+    "ws": true,
+    "display": "Kitsune2 - Hybrid T3",
+    "mapid": "32709006889"
+  },
   "surf_krow10": {
     "ws": true,
     "display": "Krow10 - Linear T3",
