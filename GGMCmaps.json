@@ -224,6 +224,11 @@
     "display": "Ninja - Staged T1",
     "mapid": "3136162799"
   },
+  "surf_nuclear": {
+    "ws": true,
+    "display": "Nuclear - Staged T1",
+    "mapid": "3610107123"
+  },
   "surf_nyx": {
     "ws": true,
     "display": "Nyx - Linear T1",
