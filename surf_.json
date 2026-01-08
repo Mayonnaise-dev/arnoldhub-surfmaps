@@ -3786,5 +3786,97 @@
   "surf_deity": {
     "Tier": 8,
     "Type": "Staged"
+  },
+  "surf_again": {
+    "Tier": 5,
+    "Type": "Linear"
+  },
+  "surf_boomer": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_concreteideas": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_doodles": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_drain": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_ezpz_fifiedition": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_frequency": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_glass5": {
+    "Tier": 4,
+    "Type": "Staged"
+  },
+  "surf_invert": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_lighrust_easy": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_mackful": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_not_so_neb": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_runner": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_scorch": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_singletons": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_spectrum": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_stoneage": {
+    "Tier": 5,
+    "Type": "Linear"
+  },
+  "surf_sup": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_surprise": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_tenzo": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_this": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_tron": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_wood_fix": {
+    "Tier": 2,
+    "Type": "Linear"
   }
 }
