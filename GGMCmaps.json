@@ -133,10 +133,10 @@
     "ws": true,
     "display": "Flow - Linear T1",
     "mapid": "3403083638"
-  },
-  "surf_forbidden_ways": {
+  ,
+  "surf_forbidden_ways_ksf": {
     "ws": true,
-    "display": "Forbidden_ways - Linear T1",
+    "display": "Forbidden_ways_ksf - Linear T1",
     "mapid": "3463566709"
   },
   "surf_frost": {

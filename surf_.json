@@ -455,6 +455,10 @@
     "Tier": 1,
     "Type": "Linear"
   },
+  "surf_forbidden_ways_ksf": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
   "surf_forgotten": {
     "Tier": 1,
     "Type": "Linear"
