@@ -1434,6 +1434,11 @@
     "display": "Glow - Linear T5",
     "mapid": "3454592243"
   },
+  "surf_gurus": {
+    "ws": true,
+    "display": "Gurus - Staged T5",
+    "mapid": "3562705310"
+  },
   "surf_infamous_ksf": {
     "ws": true,
     "display": "Infamous_ksf - Staged T5",
