@@ -621,7 +621,7 @@
   },
   "surf_invert": {
     "ws": true,
-    "display": "Invert - Staged T2",
+    "display": "Invert - Staged T3",
     "mapid": "3624041364"
   },
   "surf_island": {
@@ -1476,7 +1476,7 @@
   },
   "surf_hades2": {
     "ws": true,
-    "display": "Hades2 - Staged T6",
+    "display": "Hades2 - Staged T7",
     "mapid": "3205459705"
   },
   "surf_weirdcore": {
