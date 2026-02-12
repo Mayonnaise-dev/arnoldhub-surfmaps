@@ -951,7 +951,7 @@
     "Tier": 2,
     "Type": "Linear"
   },
-  "surf_harmony": {
+  "surf_harmony_fix": {
     "Tier": 2,
     "Type": "Staged"
   },
