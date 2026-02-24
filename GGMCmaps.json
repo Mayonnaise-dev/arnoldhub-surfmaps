@@ -464,7 +464,7 @@
     "display": "Deadline - Staged T2",
     "mapid": "3470048752"
   },
-  "surf_doodles": {
+  "surf_doodles_njv": {
     "ws": true,
     "display": "Doodles - Staged T2",
     "mapid": "3472464759"
@@ -844,11 +844,6 @@
     "display": "Surprise - Staged T2",
     "mapid": "3432408652"
   },
-  "surf_syria": {
-    "ws": true,
-    "display": "Syria - Staged T2",
-    "mapid": "3635887267"
-  },
   "surf_sundown_njv": {
     "ws": true,
     "display": "Sundown_njv - Linear T2",
@@ -873,11 +868,6 @@
     "ws": true,
     "display": "Volvic - Linear T2",
     "mapid": "3143583805"
-  },
-  "surf_verge": {
-    "ws": true,
-    "display": "Verge - Linear T2",
-    "mapid": "3476545596"
   },
   "surf_waterworks": {
     "ws": true,
