@@ -219,11 +219,6 @@
     "display": "Mesa_revo - Linear T1",
     "mapid": "3076980482"
   },
-  "surf_minecraft_2016_final": {
-    "ws": true,
-    "display": "Minecraft_2016_final - Staged T1",
-    "mapid": "3456767601"
-  },
   "surf_minuet_njv": {
     "ws": true,
     "display": "Minuet_njv - Linear T1",
@@ -553,11 +548,6 @@
     "ws": true,
     "display": "Frosty - Linear T2",
     "mapid": "3581092479"
-  },
-  "surf_giza": {
-    "ws": true,
-    "display": "Giza - Linear T2",
-    "mapid": "3205450800"
   },
   "surf_glass9": {
     "ws": true,
