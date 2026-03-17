@@ -655,6 +655,146 @@
     "Tier": 1,
     "Type": "Linear"
   },
+  "surf_adventure_final": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_ancient": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_atoz": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_atrium_go": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_bikini_bottom": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_calamity": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_cubic_ksf": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_dinwod": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_eldritch": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_fusubi": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_haze": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_intothewild": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_leidenfrost": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_lianfora": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_lo_tek": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_meridional": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_miracle": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_newb_hazard": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_nibiru": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_nibiru_2": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_occur": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_olympus": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_r-ne": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_santorini": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_sewertunnel": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_sofia": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_sos": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_starfire": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_suburbia": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_urban": {
+    "Tier": 4,
+    "Type": "Linear"
+  },
+  "surf_vitun_rotta": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_wisdom": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_wonky": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_yasukuni": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_zae": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
   "surf_004": {
     "Tier": 2,
     "Type": "Linear"
