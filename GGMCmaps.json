@@ -1179,6 +1179,11 @@
     "display": "Dusk - Staged T3",
     "mapid": "3562141480"
   },
+  "surf_dynasty": {
+    "ws": true,
+    "display": "Dynasty - Linear T3",
+    "mapid": "3496071581"
+  },
   "surf_ecosystem": {
     "ws": true,
     "display": "Ecosystem - Linear T3",
