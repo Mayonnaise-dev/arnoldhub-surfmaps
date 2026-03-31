@@ -289,11 +289,6 @@
     "display": "Nyx - Linear T1",
     "mapid": "3129698096"
   },
-  "surf_olympus": {
-    "ws": true,
-    "display": "Olympus - Hybrid T2",
-    "mapid": "3643605561"
-  },
   "surf_pantheon": {
     "ws": true,
     "display": "Pantheon - Linear T1",
@@ -868,6 +863,11 @@
     "ws": true,
     "display": "Odyssey - Linear T2",
     "mapid": "3616124853"
+  },
+  "surf_olympus": {
+    "ws": true,
+    "display": "Olympus - Hybrid T2",
+    "mapid": "3643605561"
   },
   "surf_paddy": {
     "ws": true,
@@ -1444,6 +1444,11 @@
     "display": "Stick - Staged T3",
     "mapid": "3623696313"
   },
+  "surf_stonework2": {
+    "ws": true,
+    "display": "Stonework2 - Linear T3",
+    "mapid": "3445591679"
+  },
   "surf_strafe": {
     "ws": true,
     "display": "Strafe - Linear T3",
@@ -1699,6 +1704,11 @@
     "display": "Sippysip - Linear T4",
     "mapid": "3246776437"
   },
+  "surf_stonework": {
+    "ws": true,
+    "display": "Stonework - Staged T4",
+    "mapid": "3447437732"
+  },
   "surf_sunday": {
     "ws": true,
     "display": "Sunday - Staged T4",
@@ -1833,6 +1843,11 @@
     "ws": true,
     "display": "Hades - Staged T6",
     "mapid": "3165927091"
+  },
+  "surf_stonework4": {
+    "ws": true,
+    "display": "Stonework4 - Staged T6",
+    "mapid": "3618497861"
   },
   "surf_weirdcore": {
     "ws": true,
