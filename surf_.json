@@ -735,6 +735,106 @@
     "Tier": 2,
     "Type": "Staged"
   },
+  "surf_2012_beta12": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_aesthetic": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_amateur": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_arghmyeyes": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_bazzi": {
+    "Tier": 7,
+    "Type": "Staged"
+  },
+  "surf_bigbell": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_boner": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_boy": {
+    "Tier": 1,
+    "Type": "Staged"
+  },
+  "surf_deprecation": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_exland": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_gold1": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_half_baked": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_healthy_e": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
+  "surf_misty": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_network_2008": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_oma": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_orion": {
+    "Tier": 1,
+    "Type": "Linear"
+  },
+  "surf_phantasia": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_quest": {
+    "Tier": 5,
+    "Type": "Staged"
+  },
+  "surf_sleeper": {
+    "Tier": 4,
+    "Type": "Linear"
+  },
+  "surf_stargaze": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_unknown": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_wahey": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_zen_ez": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
+  "surf_orangewood": {
+    "Tier": 3,
+    "Type": "Staged"
+  },
   "surf_occur": {
     "Tier": 3,
     "Type": "Staged"
@@ -919,6 +1019,10 @@
     "Tier": 2,
     "Type": "Staged"
   },
+  "surf_classics3": {
+    "Tier": 2,
+    "Type": "Staged"
+  },
   "surf_commune": {
     "Tier": 2,
     "Type": "Staged"
@@ -1084,6 +1188,10 @@
     "Type": "Linear"
   },
   "surf_halloween_tf2": {
+    "Tier": 2,
+    "Type": "Linear"
+  },
+  "surf_halloween_tf1": {
     "Tier": 2,
     "Type": "Linear"
   },
@@ -2212,6 +2320,10 @@
     "Type": "Staged"
   },
   "surf_roman_v2": {
+    "Tier": 3,
+    "Type": "Linear"
+  },
+  "surf_roman": {
     "Tier": 3,
     "Type": "Linear"
   },
